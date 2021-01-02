@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">oppoAIunit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">搜索</string>
+
+    <string name="loading">加载中</string>
+
+    <string name="title_home">首页</string>
+    <string name="title_tree">设置</string>
+    <string name="title_camera">拍照</string>
+    <string name="title_navi">导航</string>
+    <string name="title_project">项目</string>
+    <string name="title_activity_about">关于我们</string>
+    <string name="github_link">https://www.baidu.com</string>
+    <string name="github_title">WanAndroidClient</string>
+    <string name="api_link">http://www.baidu.com</string>
+    <string name="api_title">www.wanandroid.com</string>
+    <string name="large_text">
+        "用到的库：\n\n"
+
+        "cardview\n\n"
+
+        "retrofit\n\n"
+
+        "rxandroid\n\n"
+
+        "okhttp3\n\n"
+
+        "glide\n\n"
+
+        "butterknife\n\n"
+
+        "YUtils\n\n"
+
+        "banner\n\n"
+
+        "VerticalTabLayout\n\n"
+
+        "agentweb\n\n"
+
+        "BaseRecyclerViewAdapterHelper\n\n"
+
+    </string>
+</resources>
